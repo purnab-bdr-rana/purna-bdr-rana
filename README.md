@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a s
 - Hackathons and coding challenges
 
 ## 📫 How to reach me:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/purna-bdr-rana)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+<!--- - Email: your.email@example.com --->
+- LinkedIn: [purna-bdr-rana](https://linkedin.com/in/purna-bdr-rana)
+<!--- - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) --->
 
 ## 😄 Pronouns:
 He/Him
