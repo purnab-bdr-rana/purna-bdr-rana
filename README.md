@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @purna5704
+# 👋 Hi, I’m @purnab-bdr-rana
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student with a strong interest in technology and innovation.
 
